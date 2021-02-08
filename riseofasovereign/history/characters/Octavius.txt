@@ -1,0 +1,237 @@
+100 = {
+    name="Augustus"
+    female=no
+    dynasty=150
+    dna=afdcjicfhfh
+    martial=14
+    diplomacy=10
+    intrigue=5
+    stewardship=8
+    learning=12
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    add_trait="brilliant_strategist"
+    add_trait="genius"
+    add_trait="strategist"
+    add_trait="gamer"
+    add_trait="ambitious"
+    add_trait="proud"
+    0.0.0={
+        birth=yes
+    }
+    67.2.4={
+        add_spouse=101
+    }
+    104.6.15={
+        death={
+            death_reason = death_murder_unknown
+        }
+    }
+}
+
+101 = {
+    name="Livia"
+   female=yes
+   dynasty=151
+   dna=debdfhhbcdh
+   martial=2
+   diplomacy=6
+   intrigue=10
+   stewardship=3
+   learning=5
+   religion="hellenic_pagan_reformed"
+   culture="roman"
+   add_trait="elusive_shadow"
+   add_trait="fair"
+   add_trait="schemer"
+   add_trait="envious"
+   add_trait="familial_kinslayer"
+   50.6.12={
+       birth=yes
+   }
+   67.2.4={
+       add_spouse=100
+   }
+   116.9.19={
+       death={
+           death_reason = death_natural
+       }
+   }
+}
+
+102 = {
+    name="Tiberius"
+    female=no
+    dynasty=150
+    martial=5
+    diplomacy=5
+    intrigue=2
+    stewardship=4
+    learning=2
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=100
+    mother=101
+    add_trait="fortune_builder"
+    add_trait="quick"
+    add_trait="diligent"
+    add_trait="cruel"
+    68.9.21={
+        birth=yes
+    }
+    113.9.19={
+        death={
+            death_reason = death_natural
+        }
+    }
+}
+
+103 = {
+    name="Honorius"
+    dynasty=150
+    martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="hellenic_pagan_reformed"
+	culture="roman"
+    father=102
+	trait="mystic"
+	trait="arbitrary"
+	trait="gregarious"
+	trait="skilled_tactician"
+    84.2.28={
+        birth=yes
+    }
+    129.12.25={
+        death={
+            death_reason = death_battle
+        }
+    }
+}
+
+104 = {
+    name="Valentinian"
+    dynasty=150
+	religion="hellenic_pagan_reformed"
+	culture="roman"
+    father=102
+	trait="slothful"
+	trait="craven"
+	trait="indulgent_wastrel"
+    89.6.3={
+        birth=yes
+    }
+    134.3.14={
+        death={
+            death_reason = death_murder_unknown
+        }
+    }
+}
+
+105 = {
+    name="Gratian"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=103
+	add_trait="just"
+	add_trait="diligent"
+	add_trait="cynical"
+	add_trait="envious"
+	add_trait="charismatic_negotiator"
+    105.10.9={
+        birth=yes
+    }
+    137.3.18={
+        death={
+            death_reason = death_murder_unknown
+        }
+    }
+}
+
+106 = {
+    name="Maximinus"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=105
+    trait="drunkard"
+	trait="lustful"
+	trait="tough_soldier"
+    121.3.21={
+        birth=yes
+    }
+    145.7.4={
+        death="145.7.4"
+    }
+}
+
+107 = {
+    name="Galerius"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=106
+    trait="cynical"
+	trait="tough_soldier"
+    140.8.5={
+        birth=yes
+    }
+    196.10.17={
+        death="196.10.17"
+        }
+}
+
+108 = {
+    name="Diocletian"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=107
+    trait="brave"
+	trait="diligent"
+	trait="proud"
+	trait="just"
+	trait="zealous"
+	trait="gregarious"
+	trait="midas_touched"
+    186.11.2={
+        birth=yes
+    }
+    276.3.19={
+        death="276.3.19"
+    }
+}
+
+109 = {
+    name="Carus"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=108
+    trait="charismatic_negotiator"
+    trait="gregarious"
+    213.7.5={
+        birth=yes
+    }
+    258.7.6={
+        death="258.7.6"
+    }
+}
+
+110 = {
+    name="Carinus"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    Father=109
+    trait="lustful"
+	trait="naive_appeaser"
+    220.10.9={
+        birth=yes
+    }
+    267.7.6={
+        death="267.7.6"
+    }
+}
