@@ -2,7 +2,6 @@
 100 = {
     name= "Miloslav"
     dynasty=1
-    dna=
     martial=4
     diplomacy=5
     intrigue=3
@@ -22,10 +21,17 @@
 
     }
 
+    822.5.15={
+        death = {
+            death_reason = death_natural
+        }
+    }
+
 }
 
 101 = {
     name= "Alyona"
+    female=yes
     dynasty=
     dna=cgcbfghfaff
     martial=2
@@ -35,8 +41,6 @@
     learning=7
     religion="slavic_pagan"
     culture="russian"
-    father=
-    mother=
     add_trait="attractive"
     add_trait="proud"
     763.1.9={
@@ -45,5 +49,69 @@
     781.2.11={
         add_spouse=100
 
+    }
+
+    829.9.13={
+        death = {
+            death_reason = death_natural
+        }
+    }
+}
+###########Gen 2###########
+102 = {
+    name= "Stanimir"
+    dynasty=1
+    martial=6
+    diplomacy=4
+    intrigue=3
+    stewardship=2
+    learning=3
+    religion="slavic_pagan"
+    culture="russian"
+    father=100 #Miloslav
+    mother=101 #Alyona
+    add_trait="tough_soldier"
+    add_trait="gluttonous"
+    783.9.6={
+        birth=yes
+    }
+    799.7.23={
+        add_spouse=103
+
+    }
+
+    843.9.13={
+        death = {
+            death_reason = death_natural
+        }
+    }
+}
+
+103 = {
+    name= "Svetlana"
+    dynasty=1
+    martial=2
+    diplomacy=4
+    intrigue=10
+    stewardship=2
+    learning=3
+    religion="slavic_pagan"
+    culture="russian"
+    father=100 #Miloslav
+    mother=101 #Alyona
+    add_trait="ellusive_shadow"
+    add_trait="lustful"
+    783.1.3={
+        birth=yes
+    }
+    799.7.23={
+        add_spouse=102
+
+    }
+
+    853.9.27={
+        death = {
+            death_reason = death_natural
+        }
     }
 }
