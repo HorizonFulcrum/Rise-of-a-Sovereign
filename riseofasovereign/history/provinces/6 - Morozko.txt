@@ -1,0 +1,17 @@
+# c_morozko
+
+# County Title
+title = c_morozko
+
+# Settlements
+max_settlements = 3
+
+b_morozko = castle
+#b_morozko_2 = city
+#b_morozko_3 = temple
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+#History

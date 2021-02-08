@@ -1,0 +1,17 @@
+# c_chereborg
+
+# County Title
+title = c_chereborg
+
+# Settlements
+max_settlements = 3
+
+b_chereborg = city
+#b_chereborg_2 = city
+#b_chereborg_3 = temple
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+#History

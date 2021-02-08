@@ -1,0 +1,44 @@
+1 = {
+    name = "Miloslavovich"
+    culture = russian
+}
+
+2 = {
+    name = "Kirovich"
+    culture = russian
+}
+
+3 = {
+    name = "Yaroslavovich"
+    culture = russian
+}
+
+4 = {
+    name = "Fetisovich"
+    culture = russian
+}
+
+5 = {
+    name= "Vladislavovich"
+    culture = russian
+}
+
+6 = {
+    name= "Svyatopolkovich"
+    culture = russian
+}
+
+7 = {
+    name= "Svyatozarovich"
+    culture = russian
+}
+
+8 = {
+    name= "Askoldovich"
+    culture = russian
+}
+
+9 = {
+    name= "Boyeslavovich"
+    culture = russian
+}

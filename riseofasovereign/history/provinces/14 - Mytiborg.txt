@@ -1,0 +1,16 @@
+# c_mytiborg
+
+# County Title
+title = c_mytiborg
+
+# Settlements
+max_settlements = 2
+
+b_mytiborg = temple
+#b_mytiborg_2 = city
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+#History

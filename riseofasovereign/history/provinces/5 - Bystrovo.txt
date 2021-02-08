@@ -1,0 +1,16 @@
+# c_bystrovo
+
+# County Title
+title = c_bystrovo
+
+# Settlements
+max_settlements = 2
+
+b_bystrovo = castle
+#b_bystrovo_2 = city
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+#History

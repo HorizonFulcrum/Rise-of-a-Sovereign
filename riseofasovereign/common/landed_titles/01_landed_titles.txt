@@ -1,0 +1,314 @@
+###### AUTO GENERATED CONTENT (c) CKTools v19 ######
+
+
+
+e_slavs = {
+	color={ 215 85 193 }
+	color2={ 255 255 20 }
+	
+	capital = 1 # c_vendery
+	culture = russian
+	
+	k_slavs = {
+		color={ 225 75 198 }
+		color2={ 255 255 255 }
+		
+		capital = 1 # c_vendery
+		culture = russian
+		
+		d_vendery = {
+			color={ 245 55 208 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1 province_id = 2 province_id = 3 } }
+				}
+			}
+			capital = 1 # c_vendery
+			
+			c_vendery = { # 1
+				color={ 255 45 213 }
+				color2={ 255 255 255 }
+				
+				b_vendery = {
+				}
+				b_ustitsa = {
+				}
+				b_vendery_2 = {
+				}
+				b_vendery_3 = {
+				}
+			}
+			c_yelamysk = { # 3
+				color={ 130 83 120 }
+				color2={ 255 255 255 }
+				
+				b_yelamysk = {
+				}
+			}
+			c_yuzhnomorsk = { # 2
+				color={ 184 138 92 }
+				color2={ 255 255 255 }
+				
+				b_yuzhomorsk = {
+				}
+			}
+		}
+		d_lyuboslavsk = {
+			color={ 224 18 33 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 9 province_id = 10 } }
+				}
+			}
+			capital = 9 # c_lyuboslavsk
+			
+			c_lyuboslavsk = { # 9
+				color={ 214 28 28 }
+				color2={ 255 255 255 }
+				
+				b_lyuboslavsk = {
+				}
+				b_lyuboslavsk_2 = {
+				}
+				b_lyuboslavsk_3 = {
+				}
+				b_lyuboslavsk_4 = {
+				}
+			}
+			c_chereborg = { # 10
+				color={ 220 130 43 }
+				color2={ 255 255 255 }
+				
+				b_chereborg = {
+				}
+				b_chereborg_2 = {
+				}
+				b_chereborg_3 = {
+				}
+			}
+		}
+		d_nizhniy_kamen = {
+			color={ 191 228 250 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 4 province_id = 5 province_id = 6 } }
+				}
+			}
+			capital = 4 # c_nizhniy_kamen
+			
+			c_nizhniy_kamen = { # 4
+				color={ 201 218 255 }
+				color2={ 255 255 255 }
+				
+				b_nizhniy_kamen = {
+				}
+				b_nizhniy_kamen_2 = {
+				}
+				b_nizhniy_kamen_3 = {
+				}
+				b_nizhniy_kamen_4 = {
+				}
+			}
+			c_bystrovo = { # 5
+				color={ 220 255 181 }
+				color2={ 255 255 255 }
+				
+				b_bystrovo = {
+				}
+				b_bystrovo_2 = {
+				}
+			}
+			c_morozko = { # 6
+				color={ 255 113 94 }
+				color2={ 255 255 255 }
+				
+				b_morozko = {
+				}
+				b_morozko_2 = {
+				}
+				b_morozko_3 = {
+				}
+			}
+		}
+		d_rensk = {
+			color={ 121 5 140 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 15 province_id = 16 province_id = 17 province_id = 18 } }
+				}
+			}
+			capital = 15 # c_rensk
+			
+			c_rensk = { # 15
+				color={ 111 15 135 }
+				color2={ 255 255 255 }
+				
+				b_rensk = {
+				}
+				b_renskgorod = {
+				}
+				b_rensk_2 = {
+				}
+				b_rensk_3 = {
+				}
+			}
+			c_duya = { # 17
+				color={ 133 15 135 }
+				color2={ 255 255 255 }
+				
+				b_duya = {
+				}
+				b_duya_2 = {
+				}
+				b_duya_3 = {
+				}
+			}
+			c_solirino = { # 18
+				color={ 232 130 43 }
+				color2={ 255 255 255 }
+				
+				b_solirino = {
+				}
+				b_solirino_2 = {
+				}
+			}
+			c_tyalesh = { # 16
+				color={ 105 15 135 }
+				color2={ 255 255 255 }
+				
+				b_tyalesh = {
+				}
+				b_tyalesh_2 = {
+				}
+			}
+		}
+		d_stargorod = {
+			color={ 222 218 38 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 19 } }
+				}
+			}
+			capital = 19 # c_stargorod
+			
+			c_stargorod = { # 19
+				color={ 232 208 43 }
+				color2={ 255 255 255 }
+				
+				b_stargorod = {
+				}
+				b_stargorod_2 = {
+				}
+				b_stargorod_3 = {
+				}
+				b_stargorod_4 = {
+				}
+			}
+		}
+		d_tura = {
+			color={ 178 94 185 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 11 province_id = 12 province_id = 13 province_id = 14 } }
+				}
+			}
+			capital = 11 # c_tura
+			
+			c_tura = { # 11
+				color={ 188 84 190 }
+				color2={ 255 255 255 }
+				
+				b_tura = {
+				}
+				b_tura_2 = {
+				}
+				b_tura_3 = {
+				}
+			}
+			c_kolovo = { # 13
+				color={ 126 28 163 }
+				color2={ 255 255 255 }
+				
+				b_kolovo = {
+				}
+				b_kolovo_2 = {
+				}
+			}
+			c_mytiborg = { # 14
+				color={ 232 162 43 }
+				color2={ 255 255 255 }
+				
+				b_mytiborg = {
+				}
+				b_mytiborg_2 = {
+				}
+			}
+			c_tolyarovsk = { # 12
+				color={ 160 47 203 }
+				color2={ 255 255 255 }
+				
+				b_tolyarovsk = {
+				}
+				b_tolyarovsk_2 = {
+				}
+			}
+		}
+		d_yaroslavgorod = {
+			color={ 156 158 95 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 7 province_id = 8 } }
+				}
+			}
+			capital = 7 # c_yaroslavgorod
+			
+			c_yaroslavgorod = { # 7
+				color={ 166 148 100 }
+				color2={ 255 255 255 }
+				
+				b_yaroslavsk = {
+				}
+				b_yaroslavorod = {
+				}
+				b_yaroslavgorod = {
+				}
+				b_yaroslavgorod_2 = {
+				}
+				b_yaroslavgorod_3 = {
+				}
+			}
+			c_usokovo = { # 8
+				color={ 206 36 170 }
+				color2={ 255 255 255 }
+				
+				b_usokovo = {
+				}
+				b_usokovo_2 = {
+				}
+				b_usokovo_3 = {
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,47 @@
+
+
+bm_shattered_realms = {
+	name = "Shattered Realms"
+	desc = "Strei-Ar lies broken. In the west, the new Augustus is straining under the pressure of a revolting empire, invasions of nomadic hordes from the Great Steppes and a corrupt government. In the south east, emergent Slavic princedoms and Skjolduran jarldoms fight in petty wars over local supremacy. Will one leader rise to unite them?"
+	date = 900.1.1
+
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_3
+	custom_start = yes				## Choosing "Custom Start" will open this bookmark
+
+	selectable_character = {
+		id = 2
+		age = 32
+		name = "Kir III Kirovich"
+		title = d_nizhniy_kamen
+		title_name = d_nizhniy_kamen
+
+		character = {
+			dna = bfimkolbecc
+			properties = 000000
+			religion="slavic_pagan"
+			culture="russian"
+			government = feudal_government
+			dynasty=502
+		}
+	}
+
+	selectable_character = {
+		id = 6
+		age = 25
+		name = "Vladislav I"
+		title = d_yaroslavgorod
+		title_name = d_yaroslavgorod
+
+		character = {
+			dna = baiakelbecc
+			properties = 000000
+			religion="slavic_pagan"
+			culture="russian"
+			government = feudal_government
+			dynasty=505
+		}
+	}
+
+
+}

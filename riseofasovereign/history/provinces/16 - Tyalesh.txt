@@ -1,0 +1,16 @@
+# c_tyalesh
+
+# County Title
+title = c_tyalesh
+
+# Settlements
+max_settlements = 2
+
+b_tyalesh = castle
+#b_tyalesh_2 = city
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+#History

@@ -1,0 +1,18 @@
+# c_nizhniy_kamen
+
+# County Title
+title = c_nizhniy_kamen
+
+# Settlements
+max_settlements = 4
+
+b_nizhniy_kamen = castle
+#b_nizhniy_kamen_2 = city
+#b_nizhniy_kamen_3 = temple
+#b_nizhniy_kamen_4 = castle
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+#History

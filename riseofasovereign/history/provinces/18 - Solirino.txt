@@ -1,0 +1,16 @@
+# c_solirino
+
+# County Title
+title = c_solirino
+
+# Settlements
+max_settlements = 2
+
+b_solirino = temple
+#b_solirino_2 = city
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+#History

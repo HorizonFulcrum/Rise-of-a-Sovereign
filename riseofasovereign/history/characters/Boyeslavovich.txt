@@ -1,0 +1,85 @@
+1 = {
+    name="Boyeslav"
+    dynasty=9
+    dna=eemnmbdooje
+    martial=11
+    diplomacy=8
+    intrigue=4
+    stewardship=7
+    learning=3
+    religion="slavic_pagan"
+    culture="russian"
+    add_trait="brilliant_strategist"
+    add_trait="scarred_high"
+    add_trait="one_eyed"
+    add_trait="strong"
+    add_trait="wroth"
+    701.1.1={
+        birth=yes
+    }
+    723.1.1={
+        add_spouse=44
+    }
+    753.1.1={
+        death = {
+            death_reason = death_natural
+        }
+    }
+}
+
+2 = {
+    name="Svyatopolk"
+    dynasty=9
+    dna=eemnmbjiidj martial=4 diplomacy=6 intrigue=5 stewardship=7 learning=3
+    religion="slavic_pagan" culture="russian"
+    add_trait="strong"
+    father=1
+    mother=44
+    732.1.1={
+        birth=yes
+    }
+    759.1.1={
+        add_spouse=2
+    }
+    789.1.1={
+        death = {
+            death_reason = death_natural
+        }
+    }
+}
+
+44 = {
+    name=Miloslava
+    female=yes
+    religion="slavic_pagan" culture="russian"
+    add_trait="kind" add_trait="chaste"
+    706.1.1={
+        birth=yes
+    }
+    723.1.1={
+        add_spouse=1
+    }
+    755.1.1={
+        death = {
+            death_reason = death_natural
+    }
+  }
+}
+
+45 = {
+    name="Snezhana"
+    female=yes
+    religion="slavic_pagan" culture="russian"
+    add_trait="lustful" add_trait="attractive"
+    742.1.1={
+        birth=yes
+    }
+    759.1.1={
+        add_spouse=2
+    }
+    789.1.1={
+        death = {
+            death_reason = death_sacrificed
+        }
+    }
+}

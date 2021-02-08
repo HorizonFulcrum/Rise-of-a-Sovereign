@@ -1,0 +1,17 @@
+# k_slavs
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+
+742.1.1 = {
+	holder = 1
+}
+
+753.1.2={
+	holder = 2
+}
+
+900.1.1 = {
+	holder=0
+}

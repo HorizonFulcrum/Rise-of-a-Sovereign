@@ -1,0 +1,49 @@
+###########Gen 1###########
+100 = {
+    name= "Miloslav"
+    dynasty=1
+    dna=
+    martial=4
+    diplomacy=5
+    intrigue=3
+    stewardship=6
+    learning=7
+    religion="slavic_pagan"
+    culture="russian"
+    father=2 #Svyatopolk
+    mother=45 #Snezhana
+    add_trait="cruel"
+    add_trait="zealous"
+    763.4.12={
+        birth=yes
+    }
+    781.2.11={
+        add_spouse=101
+
+    }
+
+}
+
+101 = {
+    name= "Alyona"
+    dynasty=
+    dna=cgcbfghfaff
+    martial=2
+    diplomacy=4
+    intrigue=7
+    stewardship=2
+    learning=7
+    religion="slavic_pagan"
+    culture="russian"
+    father=
+    mother=
+    add_trait="attractive"
+    add_trait="proud"
+    763.1.9={
+        birth=yes
+    }
+    781.2.11={
+        add_spouse=100
+
+    }
+}

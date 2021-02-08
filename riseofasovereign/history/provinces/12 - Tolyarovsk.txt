@@ -1,0 +1,16 @@
+# c_tolyarovsk
+
+# County Title
+title = c_tolyarovsk
+
+# Settlements
+max_settlements = 2
+
+b_tolyarovsk = city
+#b_tolyarovsk_2 = city
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+#History

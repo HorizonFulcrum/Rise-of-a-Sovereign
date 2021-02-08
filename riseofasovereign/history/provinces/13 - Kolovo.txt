@@ -1,0 +1,16 @@
+# c_kolovo
+
+# County Title
+title = c_kolovo
+
+# Settlements
+max_settlements = 2
+
+b_kolovo = castle
+#b_kolovo_2 = city
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+#History

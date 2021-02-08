@@ -1,0 +1,16 @@
+# e_slavs
+800.1.1={
+	liege=k_slavs
+}
+
+500.1.1={
+	liege=k_slavs
+}
+
+900.1.1={
+	liege=d_vendery
+}
+
+900.1.1={
+	holder = 15
+}

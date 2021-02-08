@@ -1,0 +1,18 @@
+# c_vendery
+
+# County Title
+title = c_vendery
+
+# Settlements
+max_settlements = 4
+
+b_vendery = castle
+b_ustitsa = temple
+#b_vendery_2 = temple
+#b_vendery_3 = castle
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+#History

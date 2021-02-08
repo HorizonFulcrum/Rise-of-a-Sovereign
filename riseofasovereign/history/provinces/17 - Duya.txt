@@ -1,0 +1,17 @@
+# c_duya
+
+# County Title
+title = c_duya
+
+# Settlements
+max_settlements = 3
+
+b_duya = castle
+#b_duya_2 = city
+#b_duya_3 = temple
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+#History

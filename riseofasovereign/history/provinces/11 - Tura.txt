@@ -1,0 +1,17 @@
+# c_tura
+
+# County Title
+title = c_tura
+
+# Settlements
+max_settlements = 3
+
+b_tura = castle
+#b_tura_2 = city
+#b_tura_3 = temple
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+#History

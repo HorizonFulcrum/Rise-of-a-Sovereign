@@ -1,0 +1,22 @@
+#SLAVS
+technology = {
+	titles = {
+		d_lyuboslavsk
+		d_nizhniy_kamen
+		d_rensk
+		d_stargorod
+		d_tura
+		d_vendery
+		d_yaroslavgorod
+	}
+	900 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

@@ -1,0 +1,18 @@
+# c_lyuboslavsk
+
+# County Title
+title = c_lyuboslavsk
+
+# Settlements
+max_settlements = 4
+
+b_lyuboslavsk = castle
+#b_lyuboslavsk_2 = city
+#b_lyuboslavsk_3 = temple
+#b_lyuboslavsk_4 = castle
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+#History
