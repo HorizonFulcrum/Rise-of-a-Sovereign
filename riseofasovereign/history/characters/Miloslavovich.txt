@@ -376,3 +376,31 @@
         }
     }
 }
+
+113 = {
+    name= "Boris" #Current title holder for...
+    dynasty=1
+    martial=9
+    diplomacy=7
+    intrigue=3
+    stewardship=2
+    learning=4
+    religion="slavic_pagan"
+    culture="russian"
+    father=106 #Rostislav
+    mother=107 #Ludmila
+    add_trait="tough_soldier"
+    857.6.17={
+        birth=yes
+    }
+    868.11.1={
+        add_spouse=112
+
+    }
+
+    915.9.13={
+        death = {
+            death_reason = death_natural
+        }
+    }
+}
