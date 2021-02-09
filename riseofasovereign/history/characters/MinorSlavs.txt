@@ -1,0 +1,198 @@
+500 = {
+    name= "Vsevolod" #Current title holder for...
+    dynasty=
+    martial=9
+    diplomacy=7
+    intrigue=3
+    stewardship=2
+    learning=4
+    religion="slavic_pagan"
+    culture="russian"
+    father=
+    mother=
+    add_trait="tough_soldier"
+    857.6.17={
+        birth=yes
+    }
+    868.11.1={
+        add_spouse=112
+
+    }
+
+    915.9.13={
+        death = {
+            death_reason = death_natural
+        }
+    }
+}
+
+501 = {
+    name= "Zdisek" #Current title holder for...
+    dynasty=
+    martial=6
+    diplomacy=11
+    intrigue=2
+    stewardship=5
+    learning=7
+    religion="slavic_pagan"
+    culture="russian"
+    father=
+    mother=
+    add_trait="charismatic_negotiator"
+    860.4.10={
+        birth=yes
+    }
+    880.12.6={
+        add_spouse=502
+
+    }
+
+    911.3.18={
+        death = {
+            death_reason = death_natural
+        }
+    }
+}
+
+502 = {
+    name= "Brankica" #Current title holder for...
+    female=yes
+    dynasty=
+    martial=5
+    diplomacy=9
+    intrigue=4
+    stewardship=5
+    learning=6
+    religion="slavic_pagan"
+    culture="russian"
+    father=
+    mother=
+    add_trait="charismatic_negotiator"
+    859.7.27={
+        birth=yes
+    }
+    880.12.6={
+        add_spouse=501
+
+    }
+
+    913.11.29={
+        death = {
+            death_reason = death_natural
+        }
+    }
+}
+
+503 = {
+    name= "Bozidar" #Current title holder for...
+    dynasty=
+    martial=6
+    diplomacy=8
+    intrigue=3
+    stewardship=10
+    learning=6
+    religion="slavic_pagan"
+    culture="russian"
+    father=
+    mother=
+    add_trait="thrifty_clerk"
+    890.2.9={
+        birth=yes
+    }
+    923.3.19={
+        add_spouse=504
+
+    }
+
+    934.4.21={
+        death = {
+            death_reason = death_natural
+        }
+    }
+}
+
+504 = {
+    name= "Chessa" #Current title holder for...
+    female=yes
+    dynasty=
+    martial=4
+    diplomacy=6
+    intrigue=5
+    stewardship=9
+    learning=7
+    religion="slavic_pagan"
+    culture="russian"
+    father=
+    mother=
+    add_trait="indulgent_wastrel"
+    891.1.23={
+        birth=yes
+    }
+    923.3.19={
+        add_spouse=503
+
+    }
+
+    938.6.4={
+        death = {
+            death_reason = death_natural
+        }
+    }
+}
+
+505 = {
+    name= "Sobeslava" #Current title holder for...
+    female=yes
+    dynasty=
+    martial=8
+    diplomacy=9
+    intrigue=7
+    stewardship=5
+    learning=6
+    religion="slavic_pagan"
+    culture="russian"
+    father=
+    mother=
+    add_trait="naive_appeaser"
+    895.6.12={
+        birth=yes
+    }
+    925.8.10={
+        add_spouse=506
+
+    }
+
+    940.9.1={
+        death = {
+            death_reason = death_natural
+        }
+    }
+}
+
+506 = {
+    name= "Mieszko" #Current title holder for...
+    dynasty=
+    martial=11
+    diplomacy=5
+    intrigue=8
+    stewardship=7
+    learning=4
+    religion="slavic_pagan"
+    culture="russian"
+    father=
+    mother=
+    add_trait="tough_soldier"
+    892.8.22={
+        birth=yes
+    }
+    925.8.10={
+        add_spouse=505
+
+    }
+
+    945.3.5={
+        death = {
+            death_reason = death_natural
+        }
+    }
+}
