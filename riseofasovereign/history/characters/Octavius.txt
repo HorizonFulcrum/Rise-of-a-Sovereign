@@ -16,6 +16,10 @@
     add_trait="gamer"
     add_trait="ambitious"
     add_trait="proud"
+    add_trait="gregarious"
+	add_trait="diligent"
+    add_trait="augustus"
+    add_trait="just"
     0.0.0={
         birth=yes
     }
@@ -76,6 +80,7 @@
     add_trait="quick"
     add_trait="diligent"
     add_trait="cruel"
+    add_trait="augustus"
     68.9.21={
         birth=yes
     }
@@ -100,6 +105,7 @@
 	trait="arbitrary"
 	trait="gregarious"
 	trait="skilled_tactician"
+    trait="augustus"
     84.2.28={
         birth=yes
     }
@@ -119,6 +125,7 @@
 	trait="slothful"
 	trait="craven"
 	trait="indulgent_wastrel"
+    trait="augustus"
     89.6.3={
         birth=yes
     }
@@ -140,6 +147,7 @@
 	add_trait="cynical"
 	add_trait="envious"
 	add_trait="charismatic_negotiator"
+    add_trait="augustus"
     105.10.9={
         birth=yes
     }
@@ -159,6 +167,7 @@
     trait="drunkard"
 	trait="lustful"
 	trait="tough_soldier"
+    trait="augustus"
     121.3.21={
         birth=yes
     }
@@ -175,6 +184,7 @@
     father=306
     trait="cynical"
 	trait="tough_soldier"
+    trait="augustus"
     140.8.5={
         birth=yes
     }
@@ -196,6 +206,7 @@
 	trait="zealous"
 	trait="gregarious"
 	trait="midas_touched"
+    trait="augustus"
     186.11.2={
         birth=yes
     }
@@ -212,6 +223,7 @@
     father=308
     trait="charismatic_negotiator"
     trait="gregarious"
+    trait="augustus"
     213.7.5={
         birth=yes
     }
@@ -228,6 +240,7 @@
     Father=309
     trait="lustful"
 	trait="naive_appeaser"
+    trait="augustus"
     220.10.9={
         birth=yes
     }
@@ -235,3 +248,392 @@
         death="267.7.6"
     }
 }
+
+311 = {
+    name="Probus"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    Father=310
+    trait="naive_appeaser"
+    trait="augustus"
+    252.8.7={
+        birth=yes
+    }
+    318.2.28={
+        death="318.2.28"
+    }
+}
+
+312 = {
+    name="Aurelian"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    Father=311
+    trait="quick"
+	trait="diligent"
+	trait="skilled_tactician"
+    trait="augustus"
+    270.12.25={
+        birth=yes
+    }
+    291.6.29={
+        add_spouse=313
+    }
+    352.12.25={
+        death="352.12.25"
+    }
+}
+
+313 = {
+    name="Severina"
+	# Ulpia Severina Augusta
+	dynasty=152
+	female=yes
+	religion="hellenic_pagan_reformed"
+	culture="roman"
+	trait="charismatic_negotiator"
+    trait="augustus"
+	275.1.2={
+		birth=yes
+	}
+	361.1.1={
+		death="361.1.1"
+	}
+}
+
+314 = {
+    name="Quintillus"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    Father=312
+    mother=313
+    trait="quick"
+    trait="fortune_builder"
+    trait="augustus"
+    293.9.12={
+        birth=yes
+    }
+    335.11.3={
+        death="335.11.3"
+    }
+}
+
+315 = {
+    name="Decius"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=312
+    mother=313
+    trait="zealous"
+	trait="charismatic_negotiator"
+    trait="augustus"
+    297.9.12={
+        birth=yes
+    }
+    342.11.3={
+        death="342.11.3"
+    }
+}
+
+316 = {
+    name="Alexander"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=314
+    trait="honest"
+	trait="humble"
+	trait="kind"
+	trait="fortune_builder"
+    trait="augustus"
+    311.10.18={
+        birth=yes
+    }
+    367.3.1={
+        death="367.3.1"
+    }
+}
+
+317 = {
+    name="Macrinus"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=316
+    trait="honest"
+    trait="shrewd"
+	trait="intricate_webweaver"
+    trait="augustus"
+    329.5.14={
+        birth=yes
+    }
+    391.6.8={
+        death="391.6.8"
+    }
+}
+
+318 = {
+    name="Septimius"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=317
+    trait="charitable"
+	trait="diligent"
+	trait="zealous"
+	trait="skilled_tactician"
+    trait="augustus"
+    348.9.24={
+        birth=yes
+    }
+    395.2.18={
+        death="395.2.18"
+    }
+}
+
+319 = {
+    name="Caracalla"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=318
+    trait="diligent"
+	trait="cruel"
+	trait="envious"
+	trait="paranoid"
+	trait="tough_soldier"
+    trait="augustus"
+    374.9.24={
+        birth=yes
+    }
+    412.2.18={
+        death="412.2.18"
+    }
+}
+
+320 = {
+    name="Marcus"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=319
+    trait="scholar"
+	trait="honest"
+	trait="temperate"
+	trait="charitable"
+	trait="diligent"
+	trait="zealous"
+	trait="grey_eminence"
+    trait="augustus"
+    390.10.4={
+        birth=yes
+    }
+    458.7.2={
+        death="458.7.2"
+    }
+}
+
+321 = {
+    name="Commodus"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=320
+    trait="fair"
+	trait="lustful"
+	trait="craven"
+	trait="arbitrary"
+	trait="cruel"
+	trait="impaler"
+	trait="flamboyant_schemer"
+    trait="augustus"
+    445.2.17={
+        birth=yes
+    }
+    462.7.2={
+        death = {
+            death_reason = death_murder_unknown
+
+        }
+    }
+}
+
+322 = {
+    name="Antoninus"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=321
+    trait="kind"
+	trait="temperate"
+	trait="gregarious"
+	trait="charitable"
+	trait="diligent"
+	trait="quick"
+	trait="grey_eminence"
+    trait="augustus"
+    461.2.4={
+        birth=yes
+    }
+    514.9.2={
+        death="514.9.2"
+    }
+}
+
+323 = {
+    name="Hadrian"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=322
+    trait="scholar"
+	trait="poet"
+	trait="honest"
+	trait="gregarious"
+	trait="charitable"
+	trait="content"
+	trait="diligent"
+	trait="skilled_tactician"
+	trait="homosexual"
+    trait="augustus"
+    488.8.18={
+        birth=yes
+    }
+    541.4.30={
+        death="541.4.30"
+    }
+}
+
+324 = {
+    name="Constantius"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=323
+    trait="honest"
+	trait="trusting"
+	trait="tough_soldier"
+    trait="augustus"
+    507.11.18={
+        birth=yes
+    }
+    552.6.22={
+        death="552.6.22"
+    }
+}
+
+325 = {
+    name="Philip"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=324
+    trait="hedonist"
+	trait="ambitious"
+	trait="flamboyant_schemer"
+    trait="augustus"
+    531.1.11={
+        birth=yes
+    }
+    572.5.2={
+        death="572.5.2"
+    }
+}
+
+326 = {
+    name="Julian"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=325
+    trait="mystic"
+	trait="scholar"
+	trait="quick"
+	trait="skilled_tactician"
+    trait="augustus"
+    551.4.19={
+        birth=yes
+    }
+    616.9.2={
+        death="616.9.2"
+    }
+}
+
+327 = {
+    name="Licinius"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=326
+    add_trait="just"
+	add_trait="diligent"
+	add_trait="cynical"
+	add_trait="envious"
+	add_trait="charismatic_negotiator"
+    add_trait="augustus"
+    579.7.30={
+        birth=yes
+    }
+    635.6.2={
+        death="635.6.2"
+    }
+}
+
+328 = {
+    name="Numerian"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=327
+    trait="tough_soldier"
+    trait="arbitrary"
+    trait="augustus"
+    598.3.30={
+        birth=yes
+    }
+    647.6.2={
+        death="647.6.2"
+    }
+}
+
+329 = {
+    name="Aemilian"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=328
+    add_trait="strong"
+	add_trait="tough_soldier"
+    add_trait="augustus"
+    630.3.30={
+        birth=yes
+    }
+    687.1.2={
+        death="687.1.2"
+    }
+}
+
+330 = {
+    name="Pupienus"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=329
+    trait="homosexual"
+	trait="hedonist"
+	trait="lustful"
+    trait="detached_priest"
+    trait="augustus"
+    654.9.23={
+        birth=yes
+    }
+    700.1.1={
+        death="700.1.1"
+    }
+}
+
+# more detailed Octavii from here
