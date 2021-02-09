@@ -1,4 +1,4 @@
-100 = {
+300 = {
     name="Augustus"
     female=no
     dynasty=150
@@ -20,7 +20,7 @@
         birth=yes
     }
     67.2.4={
-        add_spouse=101
+        add_spouse=301
     }
     104.6.15={
         death={
@@ -29,7 +29,7 @@
     }
 }
 
-101 = {
+301 = {
     name="Livia"
    female=yes
    dynasty=151
@@ -50,7 +50,7 @@
        birth=yes
    }
    67.2.4={
-       add_spouse=100
+       add_spouse=300
    }
    116.9.19={
        death={
@@ -59,7 +59,7 @@
    }
 }
 
-102 = {
+302 = {
     name="Tiberius"
     female=no
     dynasty=150
@@ -70,8 +70,8 @@
     learning=2
     religion="hellenic_pagan_reformed"
     culture="roman"
-    father=100
-    mother=101
+    father=300
+    mother=301
     add_trait="fortune_builder"
     add_trait="quick"
     add_trait="diligent"
@@ -86,7 +86,7 @@
     }
 }
 
-103 = {
+303 = {
     name="Honorius"
     dynasty=150
     martial=7
@@ -95,7 +95,7 @@
 	stewardship=7
 	religion="hellenic_pagan_reformed"
 	culture="roman"
-    father=102
+    father=302
 	trait="mystic"
 	trait="arbitrary"
 	trait="gregarious"
@@ -110,12 +110,12 @@
     }
 }
 
-104 = {
+304 = {
     name="Valentinian"
     dynasty=150
 	religion="hellenic_pagan_reformed"
 	culture="roman"
-    father=102
+    father=302
 	trait="slothful"
 	trait="craven"
 	trait="indulgent_wastrel"
@@ -129,12 +129,12 @@
     }
 }
 
-105 = {
+305 = {
     name="Gratian"
     dynasty=150
     religion="hellenic_pagan_reformed"
     culture="roman"
-    father=103
+    father=303
 	add_trait="just"
 	add_trait="diligent"
 	add_trait="cynical"
@@ -150,12 +150,12 @@
     }
 }
 
-106 = {
+306 = {
     name="Maximinus"
     dynasty=150
     religion="hellenic_pagan_reformed"
     culture="roman"
-    father=105
+    father=305
     trait="drunkard"
 	trait="lustful"
 	trait="tough_soldier"
@@ -167,12 +167,12 @@
     }
 }
 
-107 = {
+307 = {
     name="Galerius"
     dynasty=150
     religion="hellenic_pagan_reformed"
     culture="roman"
-    father=106
+    father=306
     trait="cynical"
 	trait="tough_soldier"
     140.8.5={
@@ -183,12 +183,12 @@
         }
 }
 
-108 = {
+308 = {
     name="Diocletian"
     dynasty=150
     religion="hellenic_pagan_reformed"
     culture="roman"
-    father=107
+    father=307
     trait="brave"
 	trait="diligent"
 	trait="proud"
@@ -204,12 +204,12 @@
     }
 }
 
-109 = {
+309 = {
     name="Carus"
     dynasty=150
     religion="hellenic_pagan_reformed"
     culture="roman"
-    father=108
+    father=308
     trait="charismatic_negotiator"
     trait="gregarious"
     213.7.5={
@@ -220,12 +220,12 @@
     }
 }
 
-110 = {
+310 = {
     name="Carinus"
     dynasty=150
     religion="hellenic_pagan_reformed"
     culture="roman"
-    Father=109
+    Father=309
     trait="lustful"
 	trait="naive_appeaser"
     220.10.9={
