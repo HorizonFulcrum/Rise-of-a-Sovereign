@@ -378,7 +378,7 @@
 }
 
 113 = {
-    name= "Boris" #Current title holder for...
+    name= "Vsevolod" #Current title holder for...
     dynasty=1
     martial=9
     diplomacy=7
