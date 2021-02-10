@@ -378,24 +378,23 @@
 }
 
 113 = {
-    name= "Vsevolod" #Current title holder for...
+    name= "Boris" #legend
     dynasty=1
-    martial=9
-    diplomacy=7
-    intrigue=3
-    stewardship=2
-    learning=4
+    martial=3
+    diplomacy=1
+    intrigue=15
+    stewardship=1
+    learning=0
     religion="slavic_pagan"
     culture="russian"
     father=106 #Rostislav
     mother=107 #Ludmila
-    add_trait="tough_soldier"
-    857.6.17={
+    add_trait="ellusive_shadow"
+    add_trait="hedonist"
+    add_trait="schemer"
+    add_trait="lustful"
+    859.1.1={
         birth=yes
-    }
-    868.11.1={
-        add_spouse=112
-
     }
 
     915.9.13={
