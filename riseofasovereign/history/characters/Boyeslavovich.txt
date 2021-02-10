@@ -30,7 +30,7 @@
 2 = {
     name="Svyatopolk"
     dynasty=9
-    dna=eemnmbjiidj martial=4 diplomacy=6 intrigue=5 stewardship=7 learning=3
+    martial=4 diplomacy=6 intrigue=5 stewardship=7 learning=3
     religion="slavic_pagan" culture="russian"
     add_trait="strong"
     father=1
