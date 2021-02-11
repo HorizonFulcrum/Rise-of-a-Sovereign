@@ -2,3 +2,27 @@
     name = "Octavius"
     culture = roman
 }
+151 = {
+    name = "Claudius"
+    culture = roman
+}
+
+152 = {
+    name = "Ulpus"
+    culture = roman
+}
+
+153 = {
+    name = "Pomponius"
+    culture = roman
+}
+
+154 = {
+    name = "Tettidius"
+    culture = roman
+}
+
+155 = {
+    name = "Renatus"
+    culture = roman
+}
