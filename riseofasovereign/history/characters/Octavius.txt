@@ -304,14 +304,14 @@
 }
 
 314 = {
-    name="Quintillus"
+    name="Constantine"
     dynasty=150
-    religion="hellenic_pagan_reformed"
+    religion="catholic"
     culture="roman"
     Father=312
     mother=313
     trait="quick"
-    trait="fortune_builder"
+    trait="mastermind_theologian"
     trait="augustus"
     293.9.12={
         birth=yes
@@ -342,7 +342,7 @@
 316 = {
     name="Alexander"
     dynasty=150
-    religion="hellenic_pagan_reformed"
+    religion="catholic"
     culture="roman"
     father=314
     trait="honest"
@@ -637,3 +637,207 @@
 }
 
 # more detailed Octavii from here
+
+331 = {
+    name="Septimius"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=330
+    trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+    trait="augustus"
+    673.2.3={
+        birth=yes
+    }
+    691.9.17={
+        add_spouse=332
+    }
+    735.8.17={
+        death="735.8.17"
+    }
+}
+
+332 = {
+    name="Vigilantia"
+    female=yes
+    dynasty=153
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="trusting"
+	trait="ambitious"
+	trait="zealous"
+	trait="naive_appeaser"
+    673.9.4={
+        birth=yes
+    }
+    763.10.10={
+        death="763.10.10"
+    }
+}
+
+333 = {
+    name="Mercurialis"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=331
+    mother=332
+    trait="envious"
+	trait="greedy"
+	trait="flamboyant_schemer"
+    692.10.27={
+        birth=yes
+    }
+    735.8.17={
+        death = {
+            death_reason=death_murder_unknown
+        }
+    }
+}
+
+334 = {
+    name="Valgus"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=331
+    mother=332
+    trait="humble"
+    trait="kind"
+    trait="thrifty_clerk"
+    694.4.14={
+        birth=yes
+    }
+    716.9.20={
+        add_spouse=337
+    }
+    735.8.17={
+        death = {
+            death_reason=death_murder_unknown
+        }
+    }
+}
+
+335 = {
+    name="Marcellinus"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=331
+    mother=332
+    trait="scholar"
+	trait="deceitful"
+	trait="scholarly_theologian"
+    trait="augustus"
+    695.12.1={
+        birth=yes
+    }
+    724.10.2={
+       add_spouse=336
+   }
+
+    742.10.8={
+        death="742.10.8"
+    }
+}
+
+336 = {
+    name="Pomponia"
+    female=yes
+    dynasty=154
+    religion="catholic"
+    culture="roman"
+    trait="just"
+	trait="ill"
+	trait="detached_priest"
+    693.8.19={
+        birth=yes
+    }
+    756.9.24={
+        death="756.9.14"
+    }
+}
+
+337 = {
+    name="Maecilia"
+    female=yes
+    dynasty=155
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="charitable"
+	trait="temperate"
+	trait="honest"
+	trait="kind"
+	trait="cynical"
+	trait="thrifty_clerk"
+    700.7.4={
+        birth=yes
+    }
+    741.2.13={
+        death="741.2.13"
+    }
+}
+
+338 = {
+    name="Aeacus"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    father=334
+    mother=337
+    trait="scholar"
+	trait="diligent"
+	trait="midas_touched"
+    trait="augustus"
+    720.7.29={
+        birth=yes
+    }
+    740.9.21={
+        add_spouse=339
+    }
+    792.10.2={
+        death="792.10.2"
+    }
+}
+
+339 = {
+    name="Honorata"
+    female=yes
+    dynasty=151
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="zealous"
+	trait="shy"
+	trait="indulgent_wastrel"
+    721.2.9={
+        birth=yes
+    }
+    763.3.30={
+        death="763.3.30"
+    }
+}
+
+340 = {
+    name="Docilus"
+    dynasty=150
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="proud"
+	trait="deceitful"
+	trait="cruel"
+	trait="tough_soldier"
+    trait="augustus"
+    747.4.15={
+        birth=yes
+    }
+    763.3.30={
+        death="763.3.30"
+    }
+}
+
+341 = {
+    
+}
