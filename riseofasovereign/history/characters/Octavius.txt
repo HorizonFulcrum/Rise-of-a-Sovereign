@@ -1,6 +1,5 @@
 300 = {
     name="Augustus"
-    female=no
     dynasty=150
     dna=afdcjicfhfh
     martial=14
@@ -20,7 +19,7 @@
 	add_trait="diligent"
     add_trait="augustus"
     add_trait="just"
-    0.0.0={
+    1.1.1={
         birth=yes
     }
     67.2.4={
@@ -34,7 +33,7 @@
 }
 
 301 = {
-    name="Livia"
+   name="Livia"
    female=yes
    dynasty=151
    dna=debdfhhbcdh
@@ -65,7 +64,6 @@
 
 302 = {
     name="Tiberius"
-    female=no
     dynasty=150
     martial=5
     diplomacy=5
@@ -839,5 +837,5 @@
 }
 
 341 = {
-    
+
 }

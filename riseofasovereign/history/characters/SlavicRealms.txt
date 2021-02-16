@@ -1,67 +1,67 @@
-1 = {
-    name=Yaroslav
-    dynasty=501
-
-    dna = bfimkolbecc
-    properties = 000000
-    religion=slavic_pagan
-    culture=russian
-
-    865.01.15 = { birth=yes }
-    921.09.09 = { death=yes }
-}
-
-2 = {
-    name=Kir III
-    dynasty=502
-
-    religion=slavic_pagan
-    culture=russian
-
-    867.01.15 = { birth=yes }
-
-}
-
-3 = {
-    name=Svyatopolk
-    dynasty=503
-
-    religion=slavic_pagan
-    culture=russian
-
-    857.01.15 = { birth=yes }
-    919.09.09 = { death=yes }
-}
-
-4 = {
-    name=Svyatozar
-    dynasty=504
-
-    religion=slavic_pagan
-    culture=russian
-
-    857.01.15 = { birth=yes }
-    919.09.09 = { death=yes }
-}
-
-5 = {
-    name=Mstislav
-    dynasty=501
-
-    religion=slavic_pagan
-    culture=russian
-
-    866.01.15 = { birth=yes }
-    919.09.09 = { death=yes }
-}
-
-6 = {
-    name=Vladislav I
-    dynasty=505
-
-    religion=slavic_pagan
-    culture=russian
-
-    874.01.15 = { birth=yes }
-    919.09.09 = { death=yes }
-}
+# 1 = {
+#     name=Yaroslav
+#     dynasty=501
+#
+#     dna = bfimkolbecc
+#     properties = 000000
+#     religion=slavic_pagan
+#     culture=russian
+#
+#     865.01.15 = { birth=yes }
+#     921.09.09 = { death=yes }
+# }
+#
+# 2 = {
+#     name=Kir III
+#     dynasty=502
+#
+#     religion=slavic_pagan
+#     culture=russian
+#
+#     867.01.15 = { birth=yes }
+#
+# }
+#
+# 3 = {
+#     name=Svyatopolk
+#     dynasty=503
+#
+#     religion=slavic_pagan
+#     culture=russian
+#
+#     857.01.15 = { birth=yes }
+#     919.09.09 = { death=yes }
+# }
+#
+# 4 = {
+#     name=Svyatozar
+#     dynasty=504
+#
+#     religion=slavic_pagan
+#     culture=russian
+#
+#     857.01.15 = { birth=yes }
+#     919.09.09 = { death=yes }
+# }
+#
+# 5 = {
+#     name=Mstislav
+#     dynasty=501
+#
+#     religion=slavic_pagan
+#     culture=russian
+#
+#     866.01.15 = { birth=yes }
+#     919.09.09 = { death=yes }
+# }
+#
+# 6 = {
+#     name=Vladislav I
+#     dynasty=505
+#
+#     religion=slavic_pagan
+#     culture=russian
+#
+#     874.01.15 = { birth=yes }
+#     919.09.09 = { death=yes }
+# }
