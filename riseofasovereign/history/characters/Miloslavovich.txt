@@ -135,9 +135,7 @@
     }
     825.11.1={
         add_spouse=105
-
     }
-
     877.9.13={
         death = {
             death_reason = death_natural

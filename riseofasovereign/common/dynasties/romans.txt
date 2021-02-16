@@ -26,3 +26,8 @@
     name = "Renatus"
     culture = roman
 }
+
+156 = {
+    name = "Palpellius"
+    culture = roman
+}
