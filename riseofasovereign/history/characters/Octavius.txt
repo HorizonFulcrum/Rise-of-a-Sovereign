@@ -936,30 +936,3 @@
     }
 }
 
-#test temporary Char
-
-346 = {
-    name="Gemellus"
-    dynasty=150
-    dna=afdcjicfhfh
-    martial=14
-    diplomacy=10
-    intrigue=5
-    stewardship=8
-    learning=12
-    religion="hellenic_pagan_reformed"
-    culture="roman"
-    add_trait="brilliant_strategist"
-    add_trait="genius"
-    add_trait="strategist"
-    add_trait="gamer"
-    add_trait="ambitious"
-    add_trait="proud"
-    add_trait="gregarious"
-    add_trait="diligent"
-    add_trait="augustus"
-    add_trait="just"
-    878.8.25={
-        birth=yes}
-    }
-}
