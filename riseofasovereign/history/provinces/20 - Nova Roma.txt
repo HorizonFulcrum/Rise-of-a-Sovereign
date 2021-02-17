@@ -1,0 +1,20 @@
+# c_nova_roma
+
+# County Title
+title = c_nova_roma
+
+# Settlements
+max_settlements = 6
+
+b_nova_roma = castle
+b_ostia = city
+b_portus = city
+b_augusti_templum = temple
+b_nova_roma_bor_ = city
+b_nova_roma_aust_ = city
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+#History
