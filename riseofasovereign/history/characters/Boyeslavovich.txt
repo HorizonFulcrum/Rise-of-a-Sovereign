@@ -39,7 +39,7 @@
         birth=yes
     }
     759.1.1={
-        add_spouse=2
+        add_spouse=45
     }
     789.1.1={
         death = {
