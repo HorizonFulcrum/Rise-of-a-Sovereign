@@ -1,5 +1,5 @@
 1 = {
-    name="Boyeslav"
+    name="Boyeslav" # og slav
     dynasty=9
     dna=eemnmbdooje
     martial=11
@@ -28,11 +28,17 @@
 }
 
 2 = {
-    name="Svyatopolk"
+    name="Svyatopolk" #guy who fucked up
     dynasty=9
-    martial=4 diplomacy=6 intrigue=5 stewardship=7 learning=3
+    martial=4
+    diplomacy=6
+    intrigue=5
+    stewardship=2
+    learning=3
     religion="slavic_pagan" culture="russian"
     add_trait="strong"
+    add_trait="arbitrary"
+    add_trait="lustful"
     father=1
     mother=44
     732.1.1={
@@ -69,8 +75,10 @@
 45 = {
     name="Snezhana"
     female=yes
-    religion="slavic_pagan" culture="russian"
-    add_trait="lustful" add_trait="attractive"
+    religion="slavic_pagan"
+    culture="russian"
+    add_trait="lustful"
+    add_trait="attractive"
     742.1.1={
         birth=yes
     }
