@@ -1,0 +1,16 @@
+#THE IMPERIUM
+technology = {
+	titles = {
+		d_rome
+	}
+	700 = {
+		military = 3.0
+		economy = 4.0
+		culture = 4.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

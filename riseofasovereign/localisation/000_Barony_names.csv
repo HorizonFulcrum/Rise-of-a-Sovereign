@@ -1,4 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+b_augusti_templum;Augusti Templum;Augusti Templum;Augusti Templum;;Augusti Templum;;;;;;;;;x
+b_augusti_templum_adj;Augusti Templumian;;Augusti Templumer;;;;;;;;;;;x
 b_bystrovo;Bystrovo;Bystrovo;Bystrovo;;Bystrovo;;;;;;;;;x
 b_bystrovo_adj;Bystrovian;;bystrover;;;;;;;;;;;x
 b_bystrovo_2;Bystrovo;Bystrovo;Bystrovo;;Bystrovo;;;;;;;;;x
@@ -45,6 +47,16 @@ b_nizhniy_kamen_3;Nizhniy Kamen;Nizhniy Kamen;Nizhniy Kamen;;Nizhniy Kamen;;;;;;
 b_nizhniy_kamen_3_adj;Nizhniy Kamenian;;Nizhniy Kamener;;;;;;;;;;;x
 b_nizhniy_kamen_4;Nizhniy Kamen;Nizhniy Kamen;Nizhniy Kamen;;Nizhniy Kamen;;;;;;;;;x
 b_nizhniy_kamen_4_adj;Nizhniy Kamenian;;Nizhniy Kamener;;;;;;;;;;;x
+b_nova_roma;Nova Roma;Nova Roma;Nova Roma;;Nova Roma;;;;;;;;;x
+b_nova_roma_adj;Nova Roman;;Nova Romer;;;;;;;;;;;x
+b_nova_roma_aust_;Nova Roma Aust.;Nova Roma Aust.;Nova Roma Aust.;;Nova Roma Aust.;;;;;;;;;x
+b_nova_roma_aust__adj;Nova Roma Aust.ian;;Nova Roma Aust.er;;;;;;;;;;;x
+b_nova_roma_bor_;Nova Roma Bor.;Nova Roma Bor.;Nova Roma Bor.;;Nova Roma Bor.;;;;;;;;;x
+b_nova_roma_bor__adj;Nova Roma Bor.ian;;Nova Roma Bor.er;;;;;;;;;;;x
+b_ostia;Ostia;Ostia;Ostia;;Ostia;;;;;;;;;x
+b_ostia_adj;Ostian;;oster;;;;;;;;;;;x
+b_portus;Portus;Portus;Portus;;Portus;;;;;;;;;x
+b_portus_adj;Portusian;;portuser;;;;;;;;;;;x
 b_rensk;Rensk;Rensk;Rensk;;Rensk;;;;;;;;;x
 b_rensk_adj;Renskian;;rensker;;;;;;;;;;;x
 b_rensk_2;Rensk;Rensk;Rensk;;Rensk;;;;;;;;;x

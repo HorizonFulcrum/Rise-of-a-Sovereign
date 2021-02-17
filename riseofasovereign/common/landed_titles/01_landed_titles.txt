@@ -313,3 +313,67 @@ e_slavs = {
 	}
 }
 
+e_roman_empire  = {
+	color={ 143 12 100 }
+	color2={ 255 255 20 }
+
+	capital = 20 # c_nova_roma
+	culture = roman
+
+	k_rome = {
+		color={ 165 241 95 }
+		color2={ 255 255 255 }
+
+		capital = 20 # c_nova_roma
+		culture = roman
+
+		c_nova_roma = { # 20
+			color={ 135 15 80 }
+			color2={ 255 255 255 }
+
+			b_nova_roma = {
+			}
+			b_ostia = {
+			}
+			b_portus = {
+			}
+			b_augusti_templum = {
+			}
+			b_nova_roma_bor_ = {
+			}
+			b_nova_roma_aust_ = {
+			}
+		}
+		d_rome = {
+			color={ 145 5 85 }
+			color2={ 255 255 255 }
+
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 20 } }
+				}
+			}
+			capital = 20 # c_nova_roma
+
+			c_nova_roma = { # 20
+				color={ 135 15 80 }
+				color2={ 255 255 255 }
+
+				b_nova_roma = {
+				}
+				b_ostia = {
+				}
+				b_portus = {
+				}
+				b_augusti_templum = {
+				}
+				b_nova_roma_bor_ = {
+				}
+				b_nova_roma_aust_ = {
+				}
+			}
+		}
+	}
+}
+

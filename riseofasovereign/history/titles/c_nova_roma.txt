@@ -1,0 +1,12 @@
+# e_the_imperium
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+500.1.1={
+	liege=k_rome
+}
+
+500.1.1={
+	liege=d_rome
+}
