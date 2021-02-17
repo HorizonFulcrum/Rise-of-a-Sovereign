@@ -43,5 +43,21 @@ bm_shattered_realms = {
 		}
 	}
 
+selectable_character = {
+		id = 346
+		age = 22
+		name = "Gemellus"
+		title = c_yaroslavgorod
+		title_name = c_yaroslavgorod
+
+		character = {
+			dna = afdcjicfhfh
+			properties = 000000
+			religion="reformed_hellenic_pagan"
+			culture="roman"
+			government = feudal_government
+			dynasty=150
+		}
+	}
 
 }
