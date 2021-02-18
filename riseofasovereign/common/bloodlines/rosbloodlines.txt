@@ -1,0 +1,10 @@
+divine_blood_of_augustus = {
+    hellenic_pagan_reformed_opinion = 10
+    catholic_opinion = 5
+    combat_rating = 5
+    monthly_character_prestige = 0.1
+    bloodline_effect_great_heroes_appear = 1
+    inheritance = patrilineal
+    picture = GFX_bloodlines_symbol_roman
+    flags = {blood_of_augustus}
+}
