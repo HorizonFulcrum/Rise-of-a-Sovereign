@@ -8,3 +8,12 @@ divine_blood_of_augustus = {
     picture = GFX_bloodlines_symbol_roman
     flags = {blood_of_augustus}
 }
+
+blood_of_boyeslav = {
+    slavic_pagan_opinion = 10
+    combat_rating = 6
+    monthly_character_prestige = 0.1
+    inheritance = patrilineal
+    picture = GFX_bloodlines_symbol_roman
+    flags = {blood_of_boyeslav}
+}

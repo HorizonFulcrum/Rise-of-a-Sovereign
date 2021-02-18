@@ -17,6 +17,11 @@
     701.1.1={
         birth=yes
     }
+    742.1.1 = {
+        create_bloodline = {
+            type = blood_of_boyeslav
+        }
+    }
     723.1.1={
         add_spouse=44
     }
