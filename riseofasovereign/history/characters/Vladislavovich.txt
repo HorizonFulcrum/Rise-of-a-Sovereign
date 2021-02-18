@@ -1,0 +1,30 @@
+###########Gen 1###########
+400 = {
+    name= "Vladislav"
+    dynasty=5
+    martial=2
+    diplomacy=7
+    intrigue=4
+    stewardship=5
+    learning=4
+    religion="slavic_pagan"
+    culture="russian"
+    father=2 #Svyatopolk
+    mother=45 #Snezhana
+    add_trait="erudite"
+    add_trait="sturdy"
+    765.4.12={
+        birth=yes
+    }
+    785.11.9={
+        add_spouse=401
+
+    }
+
+    831.2.3={
+        death = {
+            death_reason = death_natural
+        }
+    }
+
+}

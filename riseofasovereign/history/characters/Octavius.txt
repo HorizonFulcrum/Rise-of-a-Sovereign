@@ -1089,7 +1089,7 @@
     trait="ambitious"
     trait="intricate_webweaver"
     trait="augustus"
-    821.8.25={
+    819.4.23={
         birth=yes
     }
     842.3.18={

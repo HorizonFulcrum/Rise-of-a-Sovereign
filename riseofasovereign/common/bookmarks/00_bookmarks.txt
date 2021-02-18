@@ -29,7 +29,7 @@ bm_shattered_realms = {
 	selectable_character = {
 		id = 6
 		age = 25
-		name = "Vladislav I"
+		name = "Vladislav II"
 		title = d_yaroslavgorod
 		title_name = d_yaroslavgorod
 
