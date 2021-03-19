@@ -1,7 +1,7 @@
 300 = {
     name="Augustus"
     dynasty=150
-    dna=afdcjicfhfh
+    dna=cfdcjicfhfh
     martial=14
     diplomacy=10
     intrigue=5
@@ -21,6 +21,14 @@
     add_trait="just"
     1.1.1={
         birth=yes
+    }
+    1.1.1={
+        give_nickname=nick_the_divine
+    }
+    1.1.1={
+        create_bloodline = {
+            type = divine_blood_of_augustus
+        }
     }
     67.2.4={
         add_spouse=301
@@ -208,7 +216,7 @@
     186.11.2={
         birth=yes
     }
-    276.3.19={
+    236.3.19={
         death="276.3.19"
     }
 }
@@ -276,11 +284,14 @@
     270.12.25={
         birth=yes
     }
-    291.6.29={
+    261.6.29={
         add_spouse=313
     }
-    352.12.25={
-        death="352.12.25"
+    315.1.1={
+        give_nickname=nick_restitutor_orbis
+    }
+    326.12.25={
+        death="326.12.25"
     }
 }
 
@@ -296,20 +307,20 @@
 	275.1.2={
 		birth=yes
 	}
-	361.1.1={
-		death="361.1.1"
+	351.1.1={
+		death="351.1.1"
 	}
 }
 
 314 = {
-    name="Constantine"
+    name="Decius"
     dynasty=150
-    religion="catholic"
+    religion="hellenic_pagan_reformed"
     culture="roman"
     Father=312
     mother=313
-    trait="quick"
-    trait="mastermind_theologian"
+    trait="zealous"
+	trait="charismatic_negotiator"
     trait="augustus"
     293.9.12={
         birth=yes
@@ -320,20 +331,21 @@
 }
 
 315 = {
-    name="Decius"
+    name="Constantine"
     dynasty=150
-    religion="hellenic_pagan_reformed"
+    religion="catholic"
     culture="roman"
     father=312
     mother=313
+    trait="quick"
+    trait="mastermind_theologian"
     trait="zealous"
-	trait="charismatic_negotiator"
     trait="augustus"
     297.9.12={
         birth=yes
     }
-    342.11.3={
-        death="342.11.3"
+    352.11.3={
+        death="352.11.3"
     }
 }
 
@@ -446,6 +458,7 @@
 	trait="craven"
 	trait="arbitrary"
 	trait="cruel"
+    trait"lunatic"
 	trait="impaler"
 	trait="flamboyant_schemer"
     trait="augustus"
@@ -532,6 +545,7 @@
     father=324
     trait="hedonist"
 	trait="ambitious"
+    trait"lunatic"
 	trait="flamboyant_schemer"
     trait="augustus"
     531.1.11={
@@ -605,6 +619,7 @@
     culture="roman"
     father=328
     add_trait="strong"
+    add_trait="duelist"
 	add_trait="tough_soldier"
     add_trait="augustus"
     630.3.30={
@@ -728,6 +743,7 @@
     mother=332
     trait="scholar"
 	trait="deceitful"
+    trait"lunatic"
 	trait="scholarly_theologian"
     trait="augustus"
     695.12.1={
@@ -813,8 +829,8 @@
     721.2.9={
         birth=yes
     }
-    763.3.30={
-        death="763.3.30"
+    757.3.30={
+        death="757.3.30"
     }
 }
 
@@ -828,6 +844,7 @@
     trait="proud"
 	trait="deceitful"
 	trait="cruel"
+    trait"lunatic"
 	trait="tough_soldier"
     trait="augustus"
     747.4.15={
@@ -893,7 +910,7 @@
         birth=yes
     }
     792.1.29={
-        add_spouse=334
+        add_spouse=344
     }
     819.4.24={
         death = {
@@ -911,7 +928,7 @@
     trait="chaste"
 	trait="cynical"
 	trait="elusive_shadow"
-    774.3.10={
+    775.3.10={
         birth=yes
     }
     870.6.30={
@@ -923,9 +940,12 @@
     name="Serrana"
     female=yes
     dynasty=150
+    father=343
+    mother=344
     religion="hellenic_pagan_reformed"
     culture="roman"
     trait="diligent"
+    trait="fair"
 	trait="patient"
 	trait="flamboyant_schemer"
     792.10.14={
@@ -936,3 +956,307 @@
     }
 }
 
+346 = {
+    name="Saturnina"
+    female=yes
+    dynasty=150
+    father=343
+    mother=344
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="ambitious"
+    trait="fair"
+    trait="naive_appeaser"
+    794.2.22={
+        birth=yes
+    }
+    846.8.29={
+        death="810.8.29"
+    }
+}
+
+358 = {
+    name="Cinna"
+    female=yes
+    dynasty=150
+    father=343
+    mother=344
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="fair"
+    trait="fortune_builder"
+    796.7.21={
+        birth=yes
+    }
+    872.11.9={
+        death="872.11.9"
+    }
+}
+
+347 = {
+    name="Gemella"
+    female=yes
+    dynasty=150
+    father=343
+    mother=344
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="fair"
+    trait="mystic"
+    trait="twin"
+    trait="shrewd"
+    trait="humble"
+    trait="celibate"
+    trait="mastermind_theologian"
+    819.4.23={
+        birth=yes
+    }
+}
+
+348 = {
+    name="Nero"
+    dynasty=150
+    father=343
+    mother=344
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="fair"
+    trait="hedonist"
+    trait="lunatic"
+    trait="craven"
+    trait="poet"
+    trait="augustus"
+    trait="tough_soldier"
+    809.7.9={
+        birth=yes
+    }
+    827.3.14={
+        add_spouse=346
+    }
+    827.3.14={
+        give_nickname=nick_the_depraved
+    }
+    834.12.10={
+        death={
+            death_reason = death_murder_unknown
+        }
+    }
+}
+
+349 = {
+    name="Germanicus"
+    dynasty=150
+    father=348
+    mother=346
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="ugly"
+    trait="weak"
+    trait="inbred"
+    828.7.16={
+        birth=yes
+    }
+    822.7.16={
+        give_nickname=nick_the_abomination
+    }
+    828.7.23={
+        death={
+            death_reason = death_natural
+        }
+    }
+}
+
+350 = {
+    name="Gemellus"
+    dynasty=150
+    martial=7
+    diplomacy=8
+    intrigue=7
+    stewardship=5
+    learning=5
+    father=343
+    mother=344
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="fair"
+    trait="genius"
+    trait="twin"
+    trait="scared"
+    trait="erudite"
+    trait="chaste"
+    trait="schemer"
+    trait="diligent"
+    trait="ambitious"
+    trait="intricate_webweaver"
+    trait="augustus"
+    819.4.23={
+        birth=yes
+    }
+    842.3.18={
+        add_spouse=351
+    }
+    860.5.3={
+        give_nickname=nick_the_great
+    }
+    880.8.12={
+        add_spouse=352
+    }
+    900.1.1={
+        death={
+            death_reason=death_natural
+        }
+    }
+}
+
+351 = {
+    name="Calpurniana"
+    female=yes
+    dynasty=157
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="kind"
+    trait="just"
+    trait="honest"
+    trait="martial_cleric"
+    820.7.1={
+        birth=yes
+    }
+    878.9.9={
+        death={
+            death_reason=death_murder_unknown
+        }
+    }
+}
+
+352 = {
+    name="Marcellina"
+    female=yes
+    dynasty=156
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="envious"
+    trait="fair"
+    trait="ambitious"
+    trait="intricate_webweaver"
+    857.4.20={
+        birth=yes
+    }
+}
+
+353 = {
+    name="Lucius"
+    dynasty=150
+    martial=6
+    diplomacy=2
+    intrigue=4
+    stewardship=4
+    learning=2
+    father=350
+    mother=351
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="strong"
+    trait="shy"
+    trait="ambitious"
+    trait="stubborn"
+    trait="scarred_high"
+    trait="tough_soldier"
+    850.10.7={
+        birth=yes
+    }
+    880.2.13={
+        give_nickname=nick_the_sword_of_Rome
+    }
+}
+
+354 = {
+    name="Maximian"
+    dynasty=150
+    martial=1
+    diplomacy=5
+    intrigue=4
+    stewardship=2
+    learning=4
+    father=350
+    mother=351
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="fair"
+    trait="quick"
+    trait="brave"
+    trait="gregarious"
+    trait="kind"
+    trait="ambitious"
+    trait="socializer"
+    trait="grey_eminence"
+    855.2.29={
+        birth=yes
+    }
+}
+
+355 = {
+    name="Marcellus"
+    dynasty=150
+    martial=2
+    diplomacy=2
+    intrigue=6
+    stewardship=2
+    learning=2
+    father=350
+    mother=351
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="fair"
+    trait="envious"
+    trait="ambitious"
+    trait="lustful"
+    trait="cruel"
+    trait="master_seducer"
+    trait="intricate_webweaver"
+    862.11.4={
+        birth=yes
+    }
+}
+
+356 = {
+    name="Aurelian"
+    dynasty=150
+    martial=5
+    diplomacy=2
+    intrigue=3
+    stewardship=2
+    learning=2
+    father=350
+    mother=352
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="fair"
+    trait="skilled_tactician"
+    trait="greedy"
+    trait="proud"
+    trait="ambitious"
+    trait="groomed"
+    trait="just"
+    trait="augustus"
+    881.7.15={
+        birth=yes
+    }
+}
+
+357 = {
+    name="Domitia"
+    female=yes
+    dynasty=150
+    father=350
+    mother=352
+    religion="hellenic_pagan_reformed"
+    culture="roman"
+    trait="fair"
+    trait="humble"
+    trait="gregarious"
+    trait="charismatic_negotiator"
+    883.9.12={
+        birth=yes
+    }
+}
+######DO NOT USE 358 WHEN MAKING A NEW CHARACTER, USE 359 INSTEAD!!!!#####

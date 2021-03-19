@@ -1,0 +1,3 @@
+nick_the_divine = {}
+nick_restitutor_orbis = {}
+nick_the_sword_of_Rome = {}
